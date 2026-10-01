@@ -1,0 +1,22 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main(){
+  int a,b,c;
+  cin >> a >> b >> c;
+
+  if(a>=b){
+    if(a>=c){
+        cout << "Largest is A";
+    }
+    else{
+        cout << "Largest is C";
+    }  
+  }
+  else if(b>=c){
+    cout << "Largest is B";
+  }
+  else{
+    cout << "Largest is C";
+  }
+}
