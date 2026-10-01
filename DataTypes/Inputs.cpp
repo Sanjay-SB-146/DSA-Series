@@ -11,7 +11,7 @@ int main(){
     //cout << bdate << endl;
     //cout << num << endl;
 
-    cout << bdate << endl << num << endl;
+    //cout << bdate << endl << num << endl;
 
     string str1;
     getline(cin, str1);
