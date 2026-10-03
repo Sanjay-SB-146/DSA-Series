@@ -9,5 +9,6 @@ int main(){
    cout << length << endl;
    for(int i = 0; i < length; i++){
      cout << str[i] << endl;
-   }   return 0;
+   }   
+   return 0;
 }

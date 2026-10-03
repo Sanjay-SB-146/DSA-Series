@@ -1,10 +1,1 @@
-tufplus
-f
-7
-t
-u
-f
-p
-l
-u
-s
+10
