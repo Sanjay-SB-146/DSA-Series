@@ -5,7 +5,7 @@ int main(){
     int i = 5;
     while(i<15){
         cout << i << endl;
-        i++;
+        i++;  
     }
     return 0;
 }
