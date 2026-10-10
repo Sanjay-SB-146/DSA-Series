@@ -8,7 +8,7 @@ void Pattern1(int n){
         else start=0;
         for(int j=0; j<=i;j++){
             cout << start;
-            start = 1-start;
+            start = 1-start; //main logic for flipping 0 and 1
         }
         cout << endl;
 
